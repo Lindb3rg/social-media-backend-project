@@ -1,4 +1,7 @@
-module github.com/sikozonpc/social
+
+module github.com/go-chi/chi/v5 v5.1.0 
+
+
 
 go 1.22.0
 
